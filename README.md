@@ -2,7 +2,7 @@
 
 This is a learning repo connected to [this how-to issue](https://github.com/datamade/how-to/issues/72). It was set up using the [default Gatsby starter repo](https://github.com/gatsbyjs/gatsby-starter-default).
 
-### ⬇️ Requirements
+### 💾 Requirements
 
 - [Docker](https://docs.docker.com/install/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
